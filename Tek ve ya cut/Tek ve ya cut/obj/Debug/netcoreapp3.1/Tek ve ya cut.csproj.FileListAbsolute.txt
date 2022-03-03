@@ -1,0 +1,28 @@
+C:\Users\ilkin\source\repos\Tek ve ya cut\Tek ve ya cut\bin\Debug\netcoreapp3.1\Tek ve ya cut.exe
+C:\Users\ilkin\source\repos\Tek ve ya cut\Tek ve ya cut\bin\Debug\netcoreapp3.1\Tek ve ya cut.deps.json
+C:\Users\ilkin\source\repos\Tek ve ya cut\Tek ve ya cut\bin\Debug\netcoreapp3.1\Tek ve ya cut.runtimeconfig.json
+C:\Users\ilkin\source\repos\Tek ve ya cut\Tek ve ya cut\bin\Debug\netcoreapp3.1\Tek ve ya cut.runtimeconfig.dev.json
+C:\Users\ilkin\source\repos\Tek ve ya cut\Tek ve ya cut\bin\Debug\netcoreapp3.1\Tek ve ya cut.dll
+C:\Users\ilkin\source\repos\Tek ve ya cut\Tek ve ya cut\bin\Debug\netcoreapp3.1\Tek ve ya cut.pdb
+C:\Users\ilkin\source\repos\Tek ve ya cut\Tek ve ya cut\obj\Debug\netcoreapp3.1\Tek ve ya cut.csproj.AssemblyReference.cache
+C:\Users\ilkin\source\repos\Tek ve ya cut\Tek ve ya cut\obj\Debug\netcoreapp3.1\Tek ve ya cut.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ilkin\source\repos\Tek ve ya cut\Tek ve ya cut\obj\Debug\netcoreapp3.1\Tek ve ya cut.AssemblyInfoInputs.cache
+C:\Users\ilkin\source\repos\Tek ve ya cut\Tek ve ya cut\obj\Debug\netcoreapp3.1\Tek ve ya cut.AssemblyInfo.cs
+C:\Users\ilkin\source\repos\Tek ve ya cut\Tek ve ya cut\obj\Debug\netcoreapp3.1\Tek ve ya cut.csproj.CoreCompileInputs.cache
+C:\Users\ilkin\source\repos\Tek ve ya cut\Tek ve ya cut\obj\Debug\netcoreapp3.1\Tek ve ya cut.dll
+C:\Users\ilkin\source\repos\Tek ve ya cut\Tek ve ya cut\obj\Debug\netcoreapp3.1\Tek ve ya cut.pdb
+C:\Users\ilkin\source\repos\Tek ve ya cut\Tek ve ya cut\obj\Debug\netcoreapp3.1\Tek ve ya cut.genruntimeconfig.cache
+C:\Users\ilkin\OneDrive\Masaüstü\intro, Variables, Datatypes\Tek ve ya cut\Tek ve ya cut\bin\Debug\netcoreapp3.1\Tek ve ya cut.exe
+C:\Users\ilkin\OneDrive\Masaüstü\intro, Variables, Datatypes\Tek ve ya cut\Tek ve ya cut\bin\Debug\netcoreapp3.1\Tek ve ya cut.deps.json
+C:\Users\ilkin\OneDrive\Masaüstü\intro, Variables, Datatypes\Tek ve ya cut\Tek ve ya cut\bin\Debug\netcoreapp3.1\Tek ve ya cut.runtimeconfig.json
+C:\Users\ilkin\OneDrive\Masaüstü\intro, Variables, Datatypes\Tek ve ya cut\Tek ve ya cut\bin\Debug\netcoreapp3.1\Tek ve ya cut.runtimeconfig.dev.json
+C:\Users\ilkin\OneDrive\Masaüstü\intro, Variables, Datatypes\Tek ve ya cut\Tek ve ya cut\bin\Debug\netcoreapp3.1\Tek ve ya cut.dll
+C:\Users\ilkin\OneDrive\Masaüstü\intro, Variables, Datatypes\Tek ve ya cut\Tek ve ya cut\bin\Debug\netcoreapp3.1\Tek ve ya cut.pdb
+C:\Users\ilkin\OneDrive\Masaüstü\intro, Variables, Datatypes\Tek ve ya cut\Tek ve ya cut\obj\Debug\netcoreapp3.1\Tek ve ya cut.csproj.AssemblyReference.cache
+C:\Users\ilkin\OneDrive\Masaüstü\intro, Variables, Datatypes\Tek ve ya cut\Tek ve ya cut\obj\Debug\netcoreapp3.1\Tek ve ya cut.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ilkin\OneDrive\Masaüstü\intro, Variables, Datatypes\Tek ve ya cut\Tek ve ya cut\obj\Debug\netcoreapp3.1\Tek ve ya cut.AssemblyInfoInputs.cache
+C:\Users\ilkin\OneDrive\Masaüstü\intro, Variables, Datatypes\Tek ve ya cut\Tek ve ya cut\obj\Debug\netcoreapp3.1\Tek ve ya cut.AssemblyInfo.cs
+C:\Users\ilkin\OneDrive\Masaüstü\intro, Variables, Datatypes\Tek ve ya cut\Tek ve ya cut\obj\Debug\netcoreapp3.1\Tek ve ya cut.csproj.CoreCompileInputs.cache
+C:\Users\ilkin\OneDrive\Masaüstü\intro, Variables, Datatypes\Tek ve ya cut\Tek ve ya cut\obj\Debug\netcoreapp3.1\Tek ve ya cut.dll
+C:\Users\ilkin\OneDrive\Masaüstü\intro, Variables, Datatypes\Tek ve ya cut\Tek ve ya cut\obj\Debug\netcoreapp3.1\Tek ve ya cut.pdb
+C:\Users\ilkin\OneDrive\Masaüstü\intro, Variables, Datatypes\Tek ve ya cut\Tek ve ya cut\obj\Debug\netcoreapp3.1\Tek ve ya cut.genruntimeconfig.cache
