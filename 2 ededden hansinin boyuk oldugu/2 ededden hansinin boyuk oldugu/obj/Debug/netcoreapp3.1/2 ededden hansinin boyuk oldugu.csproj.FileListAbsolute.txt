@@ -1,0 +1,14 @@
+C:\Users\ilkin\source\repos\2 ededden hansinin boyuk oldugu\2 ededden hansinin boyuk oldugu\bin\Debug\netcoreapp3.1\2 ededden hansinin boyuk oldugu.exe
+C:\Users\ilkin\source\repos\2 ededden hansinin boyuk oldugu\2 ededden hansinin boyuk oldugu\bin\Debug\netcoreapp3.1\2 ededden hansinin boyuk oldugu.deps.json
+C:\Users\ilkin\source\repos\2 ededden hansinin boyuk oldugu\2 ededden hansinin boyuk oldugu\bin\Debug\netcoreapp3.1\2 ededden hansinin boyuk oldugu.runtimeconfig.json
+C:\Users\ilkin\source\repos\2 ededden hansinin boyuk oldugu\2 ededden hansinin boyuk oldugu\bin\Debug\netcoreapp3.1\2 ededden hansinin boyuk oldugu.runtimeconfig.dev.json
+C:\Users\ilkin\source\repos\2 ededden hansinin boyuk oldugu\2 ededden hansinin boyuk oldugu\bin\Debug\netcoreapp3.1\2 ededden hansinin boyuk oldugu.dll
+C:\Users\ilkin\source\repos\2 ededden hansinin boyuk oldugu\2 ededden hansinin boyuk oldugu\bin\Debug\netcoreapp3.1\2 ededden hansinin boyuk oldugu.pdb
+C:\Users\ilkin\source\repos\2 ededden hansinin boyuk oldugu\2 ededden hansinin boyuk oldugu\obj\Debug\netcoreapp3.1\2 ededden hansinin boyuk oldugu.csproj.AssemblyReference.cache
+C:\Users\ilkin\source\repos\2 ededden hansinin boyuk oldugu\2 ededden hansinin boyuk oldugu\obj\Debug\netcoreapp3.1\2 ededden hansinin boyuk oldugu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ilkin\source\repos\2 ededden hansinin boyuk oldugu\2 ededden hansinin boyuk oldugu\obj\Debug\netcoreapp3.1\2 ededden hansinin boyuk oldugu.AssemblyInfoInputs.cache
+C:\Users\ilkin\source\repos\2 ededden hansinin boyuk oldugu\2 ededden hansinin boyuk oldugu\obj\Debug\netcoreapp3.1\2 ededden hansinin boyuk oldugu.AssemblyInfo.cs
+C:\Users\ilkin\source\repos\2 ededden hansinin boyuk oldugu\2 ededden hansinin boyuk oldugu\obj\Debug\netcoreapp3.1\2 ededden hansinin boyuk oldugu.csproj.CoreCompileInputs.cache
+C:\Users\ilkin\source\repos\2 ededden hansinin boyuk oldugu\2 ededden hansinin boyuk oldugu\obj\Debug\netcoreapp3.1\2 ededden hansinin boyuk oldugu.dll
+C:\Users\ilkin\source\repos\2 ededden hansinin boyuk oldugu\2 ededden hansinin boyuk oldugu\obj\Debug\netcoreapp3.1\2 ededden hansinin boyuk oldugu.pdb
+C:\Users\ilkin\source\repos\2 ededden hansinin boyuk oldugu\2 ededden hansinin boyuk oldugu\obj\Debug\netcoreapp3.1\2 ededden hansinin boyuk oldugu.genruntimeconfig.cache
